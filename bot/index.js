@@ -4,7 +4,7 @@ const bot = new Telegraf(TOKEN);
 const express = require("express");
 const app = express()
 app.use(express.json())
-const web_link = "https://shibtaobot.netlify.app/";
+const web_link = "";
 const community_link = "https://t.me/mhzmeg";
 
 
